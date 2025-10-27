@@ -1,0 +1,1 @@
+powershell.exe Start-Process "C:\Users\Public\Documents\node\startnode.bat" -WindowStyle Hidden 
