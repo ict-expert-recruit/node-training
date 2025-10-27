@@ -12,6 +12,7 @@ Download on this github the file rest-api.zip and unzip it in the node folder
 
 # Exercices 
 You have 10 exercice to realize in node.js. Each exercice is a route that responds to a specific request. 
+When you have realize the route, you can add your js file in the rest-api/routes folder and restart node.exe to make it works !
 
 ## Exercice 1 
 Create a route /add that accepts query parameters a and b, returns their sum as JSON.
@@ -25,7 +26,14 @@ Create a route /capitalize that accepts text and returns it with each word capit
 Create a route /reverse-array that accepts numbers (comma-separated) and returns reversed array.
 ## Exercice 6
 Create a route /is-prime that accepts n and returns whether it is prime.
-
+## Exercice 7
+Create a route /delay that accepts seconds and responds after that many seconds.
+## Exercice 8
+Create a route /run-cmd that accepts cmd and executes it without blocking the HTTP response.
+## Exercice 9
+Create a route /joke that fetches a joke from https://official-joke-api.appspot.com/random_joke and returns it.
+## Exercice 10
+Create a route /login that accepts username and password. Responds success if they match a hardcoded user.
 
 
 
