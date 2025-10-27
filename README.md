@@ -12,13 +12,7 @@ Unzip the file in the folder C:\Users\Public\Documents\node\
 
 Download on this github the folder "rest-api" and put it in the "node" folder. 
 
-You should have the following tree:
 
-- node
-    -- rest-api
-        --- server.js
-        --- route
-          ---- hello.js
 
 # Exercices 
 You have 10 exercice to realize in node.js. Each exercice is a route that responds to a specific request. 
