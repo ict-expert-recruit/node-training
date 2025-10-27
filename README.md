@@ -14,6 +14,8 @@ Download on this github the file rest-api.zip and unzip it in the node folder
 You have 10 exercice to realize in node.js. Each exercice is a route that responds to a specific request. 
 When you have realize the route, you can add your js file in the rest-api/routes folder and restart node.exe to make it works !
 
+Note that you wil find few examples in the routes folder to help you. You will also find the solution in the "solution" file on this github. 
+
 ## Exercice 1 
 Create a route /add that accepts query parameters a and b, returns their sum as JSON.
 ## Exercice 2
