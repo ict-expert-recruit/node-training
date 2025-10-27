@@ -1,6 +1,6 @@
 # Ict Expert Recruit Training Program
 This github is the official Repo for the ict-expert-recruit traning for node.js programming. 
-![alt text](logo.jpg "Title")
+<img src="logo.jpg" alt="alt text" title="Title" width="200">
 
 # Installation of the programming traning environment 
 
