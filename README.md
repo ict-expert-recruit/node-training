@@ -6,7 +6,8 @@ This github is the official Repo for the ict-expert-recruit traning for node.js 
 # Installation of the programming traning environment 
 
 ## Download standalone node.js
-Download standalone node.js for Windows: https://nodejs.org/dist/v22.21.0/node-v22.21.0-linux-x64.tar.xz
+Download standalone node.js for Linux: https://nodejs.org/dist/v22.21.0/node-v22.21.0-linux-x64.tar.xz
+Download standalone node.js for Windows : https://nodejs.org/dist/v24.10.0/node-v24.10.0-win-x64.zip
 
 Unzip the file in the folder C:\Users\Public\Documents\node\
 
