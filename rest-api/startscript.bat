@@ -1,1 +1,1 @@
-powershell.exe Start-Process "C:\Users\Public\Documents\node\startnode.bat" -WindowStyle Hidden 
+powershell.exe Start-Process "C:\Users\Public\Documents\node\rest-api\startnode.bat" -WindowStyle Hidden 
