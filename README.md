@@ -15,6 +15,8 @@ Download on this github the folder "rest-api" and put it in the "node" folder.
 
 Copy the file /node/rest-api/startscript.bat in the folder: C:\Users\[your username]\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup
 
+Execute tue following cmd: npm install express when you are in the C:\Users\Public\Documents\node\ folder
+
 Start your node.js server with : C:\Users\Public\Documents\node\node.exe C:\Users\Public\Documents\node\rest-api\server.js
 
 # Exercices 
